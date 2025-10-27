@@ -41,7 +41,9 @@ Do not move forward if the grader does not register your progress.
 # with your lab session's information.
 #
 export REGION="us-west4"
+
 export ZONE="us-west4-b"
+
 export PROJECT_ID="qwiklabs-gcp-00-..." # <-- PUT YOUR PROJECT ID HERE
 
 echo "--- Configuring gcloud project ---"
