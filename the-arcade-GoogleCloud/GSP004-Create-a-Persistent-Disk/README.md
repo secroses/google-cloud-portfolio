@@ -1,6 +1,3 @@
-# Define the markdown content for the professional README
-readme_content = """# GSP004: Persistent Disk Provisioning & Attachment
-
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 ![Category](https://img.shields.io/badge/Category-Infrastructure-blue?style=for-the-badge)
